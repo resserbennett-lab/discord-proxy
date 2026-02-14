@@ -1,5 +1,6 @@
 {
-  "name": "discord-bot",
+  "name": "proxy for disc
+",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -9,3 +10,4 @@
     "discord.js": "^14.0.0"
   }
 }
+
