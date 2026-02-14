@@ -18,5 +18,5 @@ client.on("messageCreate", message => {
     message.reply("Pong!");
   }
 });
-
 client.login(process.env.TOKEN);
+
